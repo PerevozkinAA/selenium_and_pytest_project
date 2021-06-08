@@ -1,2 +1,1 @@
-# selenium_and_pytest_project
-Tests for online store (selenium and pytest)
+Tests for online store (selenium, pytest and pattern Page Object)
